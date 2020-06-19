@@ -1,6 +1,6 @@
 # Natural Language Processing Project
 
-Classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. Also used pipeline methods for more complex tasks. Used MultiNomial Bayes Naives Classifier
+Classified Yelp Reviews to determine if they are good or bad reviews using MultiNomial Bayes Naives Classifier 
 
 We will use the [Yelp Review Data Set from Kaggle](https://www.kaggle.com/c/yelp-recsys-2013).
 
