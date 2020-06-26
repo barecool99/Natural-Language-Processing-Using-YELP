@@ -17,3 +17,4 @@ Project Specs:
 * Python Libraries: Pandas, Seaborn, NLTPK.
 * Classifier: MultiNomial Bayes Naives 
 
+Side Note: This can easily be used on Amazon pr any commerical reviews.
